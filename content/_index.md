@@ -18,3 +18,5 @@ Existuje dnes mnoho různých webových stránek, které se cvičením zabývaj�
 <https://fityou.cz/cviky/>
 
 <http://svetcviku.cz/?p=home>
+
+<https://www.internimedicina.cz/pdfs/int/2009/07/09.pdf>
