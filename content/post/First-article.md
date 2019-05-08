@@ -20,8 +20,24 @@ Vybrala jsem video, které patří mezi mé oblíbené a je zaměřené na prota
   width="600"
   height="450"
   frameborder="0" style="border:0"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDhzjJlL0FT1XMnhiKk5Brhb-_I1VbEMrk
-    &q=Space+Needle,Seattle+WA" allowfullscreen>
+  src="https://www.google.com/maps/embed/v1/search?key=AIzaSyBHJZUhbOa-xXupm6cCHKVP6pVjpFsLQ1M
+    &q=mma+Brno&zoom=11" allowfullscreen>
+</iframe>
+
+<iframe
+  width="600"
+  height="450"
+  frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed/v1/search?key=AIzaSyBHJZUhbOa-xXupm6cCHKVP6pVjpFsLQ1M
+    &q=Arne-Nováka-1&maptype=satellite&zoom=18" allowfullscreen>
+</iframe>
+
+<iframe
+  width="600"
+  height="450"
+  frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed/v1/search?key=AIzaSyBHJZUhbOa-xXupm6cCHKVP6pVjpFsLQ1M
+    &q=Arne-Nováka-1&maptype=satellite&zoom=18" allowfullscreen>
 </iframe>
 
 ## What's next?
