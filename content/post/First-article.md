@@ -15,6 +15,15 @@ Vybrala jsem video, které patří mezi mé oblíbené a je zaměřené na prota
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xn8SOsmH5AA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<iframe
+  width="600"
+  height="450"
+  frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDhzjJlL0FT1XMnhiKk5Brhb-_I1VbEMrk
+    &q=Space+Needle,Seattle+WA" allowfullscreen>
+</iframe>
+
 ## What's next?
 
 See [another post]({{< ref "another-post.md" >}}) or head back to [homepage](../../). (Check this paragraph to see the magic behind the between posts.)
